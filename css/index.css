@@ -1,0 +1,43 @@
+
+html{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("../img/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: cover;
+}
+
+header{
+    top:100%;
+}
+
+.boas-vindas h1{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 35px;
+    color: black;
+    font-style: bold;
+    background-color: white;
+    padding: 10px;
+}
+
+.boas-vindas p{
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 25px;
+    color: White;
+    font-style: bold;
+    background-color: darkblue;
+    margin: 0px;
+    padding: 10px
+}
+.navbar navbar-expand-sm bg-danger navbar-dark{
+    padding: 0px;
+    margin:0px;
+}
