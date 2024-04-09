@@ -5,7 +5,7 @@
 @import "jquery.fancybox-1.3.4.css";
 /*------ template stylization ------*/
 body {
-  background: #020201;
+  background-image: url("../img/fundo2.jpg");
   font: 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
   line-height: 20px;
   color: #5a5751;
@@ -352,7 +352,7 @@ h2 span {
 }
 #wrapper > section {
   position: relative;
-  width: 1250px;
+  width: 100%;
   height: 100%;
   margin: 45px auto 38px;
 }
@@ -380,7 +380,7 @@ h2 span {
 .cont_h {
   position: relative;
   display: inline-block;
-  height: 641px;
+  height: 1000px;
 }
 .btn {
   border: none;
@@ -444,7 +444,7 @@ a.btn-primary:hover {
 }
 .outside .scroll {
   width: 100%;
-  height: 430px;
+  height: 100%;
   overflow: hidden;
   float: left;
   margin: 0;
