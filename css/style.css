@@ -120,10 +120,10 @@ header {
   background: url('../img/menu_pic2.png') 0 0 no-repeat;
 }
 .bg3 {
-  background: url('../img/menu_pic3.png') 0 0 no-repeat;
+  background: url('../img/menu_pic4.png') 0 0 no-repeat;
 }
 .bg4 {
-  background: url('../img/menu_pic4.png') 0 0 no-repeat;
+  background: url('../img/menu_pic3.png') 0 0 no-repeat;
 }
 .menu {
   position: relative;
@@ -882,7 +882,7 @@ footer {
 }
 /*Core variables and mixins*/
 .clearfix {
-  *zoom: 1;
+  zoom: 1;
 }
 .clearfix:before,
 .clearfix:after {
