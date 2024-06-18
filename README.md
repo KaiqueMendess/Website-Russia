@@ -19,9 +19,6 @@ Este é um sistema de gestão de comentários desenvolvido em PHP com autentica�
 - `register.php`: Página de cadastro de novos usuários.
 - `admin/index.php`: Página de administração para moderação de comentários.
 - `includes/config.php`: Arquivo de configuração com as credenciais de conexão ao banco de dados.
-- `includes/functions.php`: Arquivo com funções auxiliares.
-- `includes/header.php`: Cabeçalho comum incluído em várias páginas.
-- `includes/footer.php`: Rodapé comum incluído em várias páginas.
 - Os demais arquivos são apenas informações sobre a russia disponível para qualquer usuário ver
 ## Configuração
 
